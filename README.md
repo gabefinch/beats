@@ -1,2 +1,1 @@
-This is a Sinatra web app for determining who wins in a game of rock paper scissors.
-Initially created by Ron Park and Gabe Finch.
+This is a Sinatra web app written by Ron Park and Gabe Finch during the first week of Epicodus as an exercise in writing Ruby methods.  Given inputs from a web form the method returns a boolean indicating whether the argument would lose to the object in a agame of Rock-Paper-Scissors/Ro-Sham-Bo.  The method has test coverage using Rspec.
